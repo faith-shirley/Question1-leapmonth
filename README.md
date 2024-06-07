@@ -2,6 +2,7 @@ Java Leap Month Practice Program
 This repository contains a simple Java program designed to practice checking whether a given month is a leap month. The program prompts a user to enter a year and a month, and then checks if the month is a leap month.
 
 Program Description
+
 The program follows these steps:
 1. Prompt the user to enter a year.
 2. Prompt the user to enter a month.
